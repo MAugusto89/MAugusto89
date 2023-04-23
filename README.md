@@ -1,7 +1,7 @@
 ### Olá Pessoal 👋
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maugusto89&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maugusto89&show_icons=true&theme=dark)]
 
 ### Projeto
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=tiktok-jornada-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
