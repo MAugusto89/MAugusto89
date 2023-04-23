@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Pessoal 👋
 
-<!--
-**MAugusto89/maugusto89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maugusto89&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=tiktok-jornada-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maugusto89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/maugusto89/)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/maugusto89/)
