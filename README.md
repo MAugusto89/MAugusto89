@@ -1,9 +1,10 @@
 ### Olá Pessoal 👋
 
 ### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/maugusto89)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maugusto89&show_icons=true&theme=dark)](https://github.com/maugusto89)
 
-### Projeto
+### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=tiktok-jornada-ebac&theme=dark)](https://github.com/MAugusto89/tiktok-jornada-ebac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=nlwia-foundations&theme=dark)](https://github.com/MAugusto89/nlwia-foundations)
 
