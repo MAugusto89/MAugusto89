@@ -4,7 +4,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maugusto89&show_icons=true&theme=dark)](https://github.com/maugusto89)
 
 ### Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=tiktok-jornada-ebac&theme=dark)](https://github.com/MAugusto89/tiktok-jornada-ebac) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=tiktok-jornada-ebac&theme=dark)](https://github.com/MAugusto89/tiktok-jornada-ebac)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusto89&repo=nlwia-foundations&theme=dark)](https://github.com/MAugusto89/nlwia-foundations)
+
 ### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maugusto89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
