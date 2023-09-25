@@ -1,7 +1,6 @@
 ### Olá Pessoal 👋
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/maugusto89)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maugusto89&show_icons=true&theme=dark)](https://github.com/maugusto89)
 
 ### Projetos
